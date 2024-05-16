@@ -16,8 +16,8 @@ const AuthProvider = ({ children }) => {
         e.target.value === "user"
           ? JSON.stringify(formData)
           : {
-              email: "PallaviLanghe@gmail.com",
-              password: "PallaviLanghe",
+              email: "KishorDukre@gmail.com",
+              password: "KishorDukre",
             }
       );
       //saving the token in localstorage

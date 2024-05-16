@@ -4,7 +4,7 @@ const Footer = () => {
     <>
       <footer className="centered vertical-direction">
         <h2 className="mb-lg">
-          Developed with <span className="">&lt;/&gt;</span> by Pallavi Langhe
+          Developed with <span className="">&lt;/&gt;</span> by Kishor Dukre
         </h2>
         <ul className="style-list-none mb-lg">
           <li className="inline-block padding-xs">
@@ -12,7 +12,7 @@ const Footer = () => {
               className="footer-link"
               target="_blank"
               rel="noreferrer"
-              href="https://github.com/Pallavi-Langhe"
+              href="https://github.com/kkiishor"
             >
               <i className="fab fa-github fa-lg"></i>
             </a>
@@ -22,7 +22,7 @@ const Footer = () => {
               className="footer-link"
               target="_blank"
               rel="noreferrer"
-              href="https://www.linkedin.com/in/pallavilanghe/"
+              href="https://www.linkedin.com/in/kishor-rd-14926520a/"
             >
               <i className="fab fa-linkedin fa-lg"></i>
             </a>
@@ -32,7 +32,7 @@ const Footer = () => {
               className="footer-link"
               target="_blank"
               rel="noreferrer"
-              href="https://twitter.com/pallavilanghe17/"
+              href="https://twitter.com/kishorrda6"
             >
               <i className="fab fa-twitter fa-lg"></i>
             </a>
@@ -42,7 +42,7 @@ const Footer = () => {
           ©2023 BookShelf
           <a
             className="decor-none footer-link"
-            href="https://github.com/Pallavi-Langhe"
+            href="https://github.com/kkiishor"
           >
 
           </a>

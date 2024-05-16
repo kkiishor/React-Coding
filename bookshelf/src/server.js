@@ -71,13 +71,13 @@ export function makeServer({ environment = "development" } = {}) {
            addressList: [
             {
               _id: uuid(),
-              firstname: "Pallavi",
-              lastname:"Langhe",
-              street: "Tilak Road",
+              firstname: "Kishor",
+              lastname:"Dukre",
+              street: "Kharadi Bypass",
               city: "Pune",
               state: "Maharashtra",
               country: "India",
-              pincode: "412210",
+              pincode: "411014",
               phone: "123456789",
             },
           ],
