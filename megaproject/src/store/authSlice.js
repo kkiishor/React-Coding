@@ -3,7 +3,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
   status: false,
-  usedData: null
+  userData: null
 }
 
 const authSlice = createSlice({
